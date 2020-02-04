@@ -1,9 +1,43 @@
+ /*
+ 2020 Thomas Edison Challenge
+ Team ATHS
+ Patrick, Max, Marcus
+ 
+ Do not redistrbute
+ 
+ */
+class web {
+private:
+
+public:
+
+};
+class relay {
+private:
+
+public:
+
+};
+class gasSen {
+private:
+
+public:
+
+};
+class humididtySen {
+private:
+
+public:
+
+
+};
+
 void setup() {
-  // put your setup code here, to run once:
+  
 
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  
 
 }
